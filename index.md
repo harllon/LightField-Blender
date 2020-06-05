@@ -9,8 +9,13 @@ Algumas observações:
 ## Cenários
 
 ### Tower of Gods
+A sequência de imagens abaixo são três "frames" do projeto "Tower of Gods". Esses "frames" foram selecionados de forma que a animaço possa ser devidamente retratada.
 
 ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_1.jpg)
+
+![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_4.jpg)
+
+![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_8.jpg)
 
 
 
