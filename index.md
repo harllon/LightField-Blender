@@ -9,7 +9,7 @@ LightFields são uma função vetorial que descreve a quantidade de luz que atra
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/baby_lightfield.jpg) | 
 |:--:| 
-| *Representação 7D da Função Plenóptica[2]* |
+| *Figura 1: Representação 7D da Função Plenóptica[2]* |
 
 No entanto, devido a algumas redundâncias na aquisição de informação, podemos utilizar a representaço 5D da função plenóptica e, em alguns casos, a representação 4D que é gerada a partir da parametrização proposta por Marc Levoy e Pat Hanrahan chamada de light slab.[3]
 
@@ -20,13 +20,13 @@ A principal câmera plenóptica, que se tornou referências para diversos trabal
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/lytro_cam.jpg) | 
 |:--:| 
-| *Câmera Plenóptica Lytro[4]* |
+| *Figura 2: Câmera Plenóptica Lytro[4]* |
 
 A câmera plenóptica da Lytro que detém algumas particularidades. Tal câmera apresenta uma lente principal e um vetor de microlentes posteriores, todas elas captando diferentes raios de luz, como ilustra a figura a segur:
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/plenoptica_cam.png) | 
 |:--:| 
-| *Esquema interno de uma Câmera Plenóptica[5]* |
+| *Figura 3: Esquema interno de uma Câmera Plenóptica[5]* |
 
 Essa estrutura permite que a imagem gerada possa ser visualizada sob diferentes pontos de vista sem que tenha perda de qualidade ou deformação da imagem. Além disso, há a possibilidade de mudança de foco ao longo da figura após a imagem ser tirada.
 
@@ -43,7 +43,7 @@ A seguir, vamos tratar de alguns parâmetros intrínsecos da câmera que serão 
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/macro-focusing-distance-eng.jpg) | 
 |:--:| 
-| *Exemplificaço de distância focal e comprimento focal[7]* |
+| *Figura 4: Exemplificação de distância focal e comprimento focal[7]* |
 
 2. Tamanho do Sensor(Sensor Size): O tamanho do sensor de uma câmera determina quanta luz ela capta para criar uma imagem. Em outras palavras, os sensores de imagem consistem em milhões de pontos sensíveis à luz, que são usados para registrar informações sobre o que é visto através da lente. Logo, quanto maior esse parâmetro mais luz pode ser captada pela câmera.[8]
 
@@ -87,7 +87,9 @@ Algumas observações:
 
 A sequência de imagens abaixo são três "frames" do projeto "Tower of Gods". Esses "frames" foram selecionados de forma que a animaço possa ser devidamente retratada.
 
-![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_1.jpg)
+| ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_1.jpg) | 
+|:--:| 
+| *Figura 5: Visão Central e sua Disparidade-Frame 0001* |
 
 ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_4.jpg)
 
