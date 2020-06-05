@@ -10,7 +10,7 @@ Algumas observações:
 
 ### Tower of Gods
 Visão Central-Frame 0001            |  Mapa de Disparidade-Frame 0001
-:-------------------------:|:-------------------------:
+-------------------------|-------------------------
 ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/central_view_0001.png)  |  ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/disp_0001.jpg)
 
 
