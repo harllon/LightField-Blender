@@ -17,7 +17,9 @@ A sequência de imagens abaixo são três "frames" do projeto "Tower of Gods". E
 
 ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_8.jpg)
 
+![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/juntos2.jpg)
 
+![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/juntos.jpg)
 
 
 
