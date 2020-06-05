@@ -18,7 +18,7 @@ Visão Central-Frame 0001 | Mapa de Disparidade-Frame 0001
 
 Version two!
 
-![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_0001.jpg)
+![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_1.jpg)
 
 
 
