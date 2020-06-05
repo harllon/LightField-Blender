@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Exposição de Resultados
 
-You can use the [editor on GitHub](https://github.com/harllon/LightField-Blender/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Objetivo: Expor os resultados obtidos até agora. Irei apresentar os cenários criados da seguinte forma: Inicialmente irei apresentar 3 frames selecionados de cada cenário além de seus mapas de disparidade. Esses frames foram selecionadas de forma que possam mostrar da melhor forma o cenário e as movimentações que acontecem nele. Em seguida irei apresentar as imagens em um formato de "grid" 8x8 onde coloco todas as imagens obtidas para cada cenário. Por fim, utilizando um visualizador de lightfield, apresentarei vídeos que mostram as animações criadas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Algumas observações:
+1. Os cenários criados tem elementos de trabalhos de outros, que disponibilizam suas artes no site [sketchfab](https://sketchfab.com/feed). Os créditos serão devidamente colocados
+2. Os códigos utilizados serão colocados nesse repositório do github: [LightField-Blender](https://github.com/harllon/LightField-Blender)
 
-### Markdown
+## Cenários
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tower of Gods
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harllon/LightField-Blender/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### The Airplane
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+### Return to Home
