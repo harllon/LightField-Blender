@@ -11,43 +11,42 @@ LightFields são uma função vetorial que descreve a quantidade de luz que atra
 |:--:| 
 | *Figura 1: Representação 7D da Função Plenóptica.[2]* |
 
-No entanto, devido a algumas redundâncias na aquisição de informação, podemos utilizar a representaço 5D da função plenóptica e, em alguns casos, a representação 4D que é gerada a partir da parametrização proposta por Marc Levoy e Pat Hanrahan chamada de light slab.[3]
+No entanto, devido a algumas redundâncias na aquisição de informação, podemos utilizar a representação 5D da função plenóptica e, em alguns casos, a representação 4D que é gerada a partir da parametrização proposta por Marc Levoy e Pat Hanrahan chamada de light slab.[3]
 
 ### Câmera Plenóptica
 
 A câmera plenóptica é responsável pela criação de imagens de campo de luz a partir de cenas reais. Essa câmera captura informação sobre o campo de luz emanado da cena, ou seja, intensidade da luz e direção que o raio de luz está viajando no espaço. 
-A principal câmera plenóptica, que se tornou referências para diversos trabalhos é a câmera da Lytro. 
+A principal câmera plenóptica, que se tornou referências para diversos trabalhos, é a câmera da Lytro.
 
 |<img src="https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/lytro_cam.jpg" width="500" height="300" />| 
 |:--:| 
 | *Figura 2: Câmera Plenóptica Lytro[4]* |
 
-A câmera plenóptica da Lytro que detém algumas particularidades. Tal câmera apresenta uma lente principal e um vetor de microlentes posteriores, todas elas captando diferentes raios de luz, como ilustra a figura a segur:
+A câmera plenóptica da Lytro que detém algumas particularidades. Tal câmera apresenta uma lente principal e um vetor de microlentes posteriores, todas elas captando diferentes raios de luz, como ilustra a figura a seguir:
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/plenoptica_cam.png) | 
 |:--:| 
 | *Figura 3: Esquema interno de uma Câmera Plenóptica.[5]* |
 
-Essa estrutura permite que a imagem gerada possa ser visualizada sob diferentes pontos de vista sem que tenha perda de qualidade ou deformação da imagem. Além disso, há a possibilidade de mudança de foco ao longo da figura após a imagem ser tirada.
+Essa estrutura permite que a imagem gerada possa ser visualizada sob diferentes pontos de vista sem que haja perda de qualidade ou deformação da imagem. Além disso, há a possibilidade de mudança de foco ao longo da figura após a imagem ser tirada.
 
 ### Calibração de Câmera
 
-A calibração de câmera consiste no processo de determinar dados geométricos e ópticos da câmera. Para isso, faz-se necessário o entendimento dos parâmetros da câmera. Tais parâmetros são dividos em dois grupos: Intrínsecos e Extrínsecos 
+A calibração de câmera consiste no processo de determinação de dados geométricos e ópticos da câmera. Para isso, faz-se necessário o entendimento dos parâmetros da câmera. Tais parâmetros são divididos em dois grupos: Intrínsecos e Extrínsecos. 
 
 #### Intrínsecos
 
-Os parâmetros intrínsecos servem para se poder relacionar as coordenadas pixel relativas às imagens com as coordenadas de pontos do espaço medidos no sistema referencial com origem no centro da câmara. Estes parâmetros dependem exclusivamente das características físicas da câmara (da sua geometria interna, do tipo de lente). [6]
-A seguir, vamos tratar de alguns parâmetros intrínsecos da câmera que serão mencionados futuramente.
+Os parâmetros intrínsecos servem para poder relacionar as coordenadas pixel relativas às imagens com as coordenadas de pontos do espaço medidos no sistema referencial com origem no centro da câmara. Estes parâmetros dependem exclusivamente das características físicas da câmara (da sua geometria interna, do tipo de lente). [6] A seguir, vamos tratar de alguns parâmetros intrínsecos da câmera que serão mencionados futuramente.
 
 1. Comprimento Focal(Focal Length): É a distância do plano focal (onde está o sensor da câmera) até a retaguarda da lente, quando focada no infinito. Esta é uma propriedade da lente, que determina o ângulo de visão e a perspectiva.[7]. Basicamente, esse parâmetro tem influência direta no quanto a imagem é aparentemente ampliada.
+
+2. Tamanho do Sensor(Sensor Size): O tamanho do sensor de uma câmera determina quanta luz ela capta para criar uma imagem. Em outras palavras, os sensores de imagem consistem em milhões de pontos sensíveis à luz, que são usados para registrar informações sobre o que é visto através da lente. Logo, quanto maior esse parâmetro, mais luz pode ser captada pela câmera.[8]
+
+3. F-stop: É um parâmetro de câmera que especifica a abertura da lente. É obtida como a razão entre o comprimento focal da lente e o diâmetro da abertura da lente.[9]
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/macro-focusing-distance-eng.jpg) | 
 |:--:| 
 | *Figura 4: Exemplificação de distância focal e comprimento focal.[7]* |
-
-2. Tamanho do Sensor(Sensor Size): O tamanho do sensor de uma câmera determina quanta luz ela capta para criar uma imagem. Em outras palavras, os sensores de imagem consistem em milhões de pontos sensíveis à luz, que são usados para registrar informações sobre o que é visto através da lente. Logo, quanto maior esse parâmetro mais luz pode ser captada pela câmera.[8]
-
-3. F-stop: É um parâmetro de câmera que especifica a abertura da lente. É obtida como a razão entre o comprimento focal da lente e o diâmetro da abertura da lente.[9]
 
 #### Extrínsecos
 
@@ -67,17 +66,16 @@ A disparidade (que pode ser horizontal ou vertical), em linhas gerais, consiste 
 
 ### Blender
 
-o Blender é uma software de criação 3D, com scripts em python. Ela permite a modelagem de ambientes, cenários, objetos, além de criação de animações. [11] É um software voltado para designer que, em seu ambiente, permite a implementação de câmeras virtuais que simulam uma câmera plenóptica e, podem ser utilizadas para a captura de campos de luz sintéticos.
+O Blender é um software de criação 3D com scripts em python. Ela permite a modelagem de ambientes, cenários, objetos, além de criação de animações. [11] É um software voltado para designer que, em seu ambiente, permite a implementação de câmeras virtuais que simulam uma câmera plenóptica e podem ser utilizadas para a captura de campos de luz sintéticos.
 
 ### Datasets 
 
-
-A proposta do projeto é criar uma dataset de vídeos lightfield sintéticos com uma visão para a variação da disparidade da cena. Para isso, as animações foram geradas no Blender e apresentadas abaixo da seguinte forma: Inicialmente irei apresentar três frames selecionados de cada cenário além de seus mapas de disparidade. Esses frames foram selecionadas de forma que possam mostrar da melhor forma o cenário e as movimentações que acontecem nele. Em seguida irei apresentar as imagens em um formato de "grid" onde coloco todas as imagens obtidas para cada cenário. Por fim, utilizando um visualizador de lightfield, apresentarei vídeos que mostram as animações criadas.
+A proposta do projeto é criar uma dataset de vídeos lightfield sintéticos com uma visão para a variação da disparidade da cena. Para isso, as animações foram geradas no Blender e apresentadas abaixo da seguinte forma: Inicialmente, irei apresentar três frames selecionados de cada cenário além de seus mapas de disparidade. Esses frames foram selecionados de modo que possam mostrar da melhor forma o cenário e as movimentações que acontecem nele. Em seguida, irei apresentar as imagens em um formato de “grid”, em que coloco todas as imagens obtidas para cada cenário. Por fim, utilizando um visualizador de lightfield, apresentarei vídeos que mostram as animações criadas.
 
 ##### Algumas observações:
-1. Os cenários criados tem elementos de trabalhos de outros, que disponibilizam suas artes no site [sketchfab]. Os créditos serão devidamente apresentados após cada sequência de imagem.
+1. Os cenários criados têm elementos de trabalhos de outros, que disponibilizam suas artes no site [sketchfab]. Os créditos serão devidamente apresentados após cada sequência de imagem.
 2. Os códigos utilizados serão colocados nesse repositório do github: [LightField-Blender](https://github.com/harllon/LightField-Blender)
-3. Todos as imagens foram tiradas utilizando uma simulação de câmera plenóptica feita no blender[13]. Além disso, foi utilizada sempre uma matriz 8x8 de "micro-câmeras"
+3. Todas as imagens foram tiradas utilizando uma simulação de câmera plenóptica feita no blender[13]. Além disso, foi utilizada sempre uma matriz 8x8 de "micro-câmeras"
 4. Esse trabalho foi inspirado no trabalho ["A Dataset and Evaluation Methodology for Depth Estimation on 4D Light Fields"](https://lightfield-analysis.uni-konstanz.de/). Eles disponibilizaram scripts em python que foram utilizados nesse projeto e seu acesso será disponibilizado nas referências[14], [15].
 5. O visualizador utilizado pertence ao projeto ["Light Field Video Capture Using a Learning-Based Hybrid Imaging System"](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/).
 6. Os mapas de disparidade foram gerados usando o MatLab.[18]
@@ -86,7 +84,7 @@ A proposta do projeto é criar uma dataset de vídeos lightfield sintéticos com
 
 ### Tower of Gods
 
-A sequência de imagens abaixo são três "frames" do projeto "Tower of Gods". Esses "frames" foram selecionados de forma que a animaço possa ser devidamente retratada.
+A sequência de imagens abaixo são três "frames" do projeto "Tower of Gods". Esses "frames" foram selecionados de forma que a animação possa ser devidamente retratada.
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/CV_MD_1.jpg) | 
 |:--:| 
@@ -100,13 +98,13 @@ A sequência de imagens abaixo são três "frames" do projeto "Tower of Gods". E
 |:--:| 
 | *Figura 7: Visão Central e sua Disparidade - Frame 0008* |
 
-Os próximos quadros são os oito "frames" tirados com a câmera no ambiente do blender. Elas foram juntadas em um "grid" 4x2 onde cada imagem do grid representa uma câmera da matriz de câmera. Como foi utilizada uma matriz 8x8, temos um total de 64 imagens por "frame".
+Os próximos quadros são os oito "frames" tirados com a câmera no ambiente do blender. Elas foram agrupadas em um "grid" 4x2, em que cada imagem do grid representa uma câmera da matriz de câmera. Como foi utilizada uma matriz 8x8, temos um total de 64 imagens por "frame".
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Tower%20of%20Gods/disparity_colour/juntos2.jpg) | 
 |:--:| 
 | *Figura 8: LightField - Todos os "frames"* |
 
-Segue abaixo alguns parâmetros da câmera utilizada.
+Seguem abaixo alguns parâmetros da câmera utilizada.
 
 Parâmetros | Valores
 ------------ | -------------
@@ -140,7 +138,7 @@ Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado 
 
 ### Return to Home
 
-Para esse projeto intitulado "Return to Home" um vídeo com seis "frames" foi criado. Abaixo coloco três "frames" selecionados que caracterizam a movimentação que ocorre no cenário.
+Para esse projeto intitulado "Return to Home", um vídeo com seis "frames" foi criado. Abaixo, coloco três "frames" selecionados que caracterizam a movimentação que ocorre no cenário.
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Return%20to%20Home/disparity_colour/CV_MD_1.jpg) | 
 |:--:| 
@@ -156,7 +154,7 @@ Para esse projeto intitulado "Return to Home" um vídeo com seis "frames" foi cr
 |:--:| 
 | *Figura 11: Visão Central e sua Disparidade - Frame 0006"* |
 
-Aqui apresento os 6 "frames" num formato de "grid" 3x2. Novamente, cada "frame" apresenta um total de 64 imagens.
+Aqui, apresento os 6 "frames" num formato de "grid" 3x2. Novamente, cada "frame" apresenta um total de 64 imagens.
 
 
 | ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Return%20to%20Home/disparity_colour/juntos.jpg) | 
