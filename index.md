@@ -1,4 +1,4 @@
-# Exposição de Resultados
+# Projeto de Datasets de LightFields Sintéticos
 
 ## Conceitos
 
@@ -69,7 +69,7 @@ A disparidade (que pode ser horizontal ou vertical), em linhas gerais, consiste 
 
 o Blender é uma software de criação 3D, com scripts em python. Ela permite a modelagem de ambientes, cenários, objetos, além de criação de animações. [11] É um software voltado para designer que, em seu ambiente, permite a implementação de câmeras virtuais que simulam uma câmera plenóptica e, podem ser utilizadas para a captura de campos de luz sintéticos.
 
-### Resultados 
+### Datasets 
 
 Nessa seção irei apresentar os cenários criados da seguinte forma: Inicialmente irei apresentar três frames selecionados de cada cenário além de seus mapas de disparidade. Esses frames foram selecionadas de forma que possam mostrar da melhor forma o cenário e as movimentações que acontecem nele. Em seguida irei apresentar as imagens em um formato de "grid" onde coloco todas as imagens obtidas para cada cenário. Por fim, utilizando um visualizador de lightfield, apresentarei vídeos que mostram as animações criadas.
 
