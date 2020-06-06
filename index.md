@@ -122,8 +122,7 @@ Disparidade máxima | -0.7 |
 
 O vídeo abaixo retrata a cena e a possibilidade de alterar o foco do vídeo durante sua realização.
 
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nASHt0y1DUM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Créditos
 Domínio de lucidvoo, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
@@ -178,6 +177,7 @@ Disparidade máxima | 1.1 |
 
 Confira abaixo o vídeo criado dessa animação.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3yOZzGUb_D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Créditos
 Domínio de KattyLi, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
@@ -230,15 +230,64 @@ Disparidade máxima | -1.1 |
 
 Segue o vídeo desse projeto abaixo.
 
-
-
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf4B_ixezZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Créditos
 Domínio de Akhikyan, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Alterações na textura e coloração do modelo.
 [https://sketchfab.com/3d-models/steampunk-lighthouse-21ac51ebc4874fd08cc74ff75aed328d](https://sketchfab.com/3d-models/steampunk-lighthouse-21ac51ebc4874fd08cc74ff75aed328d)
+
+### Batman x Batman
+
+| ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Batman/disparity_colour/CV_MD1.jpg) | 
+|:--:| 
+| *Figura 17: Visão Central e sua Disparidade - Frame 0001"* |
+
+| ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Batman/disparity_colour/CV_MD4.jpg) | 
+|:--:| 
+| *Figura 18: Visão Central e sua Disparidade - Frame 0004"* |
+
+| ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Batman/disparity_colour/CV_MD8.jpg) | 
+|:--:| 
+| *Figura 19: Visão Central e sua Disparidade - Frame 0008"* |
+
+Essa animação foi feita com oito "frames", dessa forma, apresentamos todos eles nesse formato de "grid" 4x2. 
+
+| ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/Batman/lightfield/juntos.jpg) | 
+|:--:| 
+| *Figura 20: LightField - Todos os "frames"* |
+
+
+Parâmetros | Valores
+------------ | -------------
+Comprimento focal(Focus Length) | 45.0 mm |
+Tamanho do sensor(Sensor Size) | 40.0 mm |
+F-stop | 100.0 |
+Linha de Base(Baseline) | 50.0 mm |
+Distância Focal(Focus Distance) | 8.0 m |
+Deslocamento(Offset) | 3.6 |
+Resolução (x) | 512 px |
+Resolução (y) | 352 px |
+Disparidade mínima | -3.8 |
+Disparidade máxima |  0.6 |
+
+Segue o vídeo da animação
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ghEiwHPyoxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Créditos
+Domínio de s20541, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D.
+[https://sketchfab.com/3d-models/an-island-house-domek-na-wyspie-1f9643e73f9948b289cad0fa342ca0c8](https://sketchfab.com/3d-models/an-island-house-domek-na-wyspie-1f9643e73f9948b289cad0fa342ca0c8)
+
+Domínio de agustinR, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D, alterações nas cores e texturas.
+[https://sketchfab.com/3d-models/little-batman-41822a72594e4ac8899f1aef73e0c089](https://sketchfab.com/3d-models/little-batman-41822a72594e4ac8899f1aef73e0c089)
+
+Domínio de Autem.mortale, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D, alterações nas cores e texturas.
+[https://sketchfab.com/3d-models/btr-80-08471dc85e834dc389e013806aa5ec37](https://sketchfab.com/3d-models/btr-80-08471dc85e834dc389e013806aa5ec37)
+
 
 
 ## Referências
