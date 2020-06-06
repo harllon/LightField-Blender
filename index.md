@@ -71,7 +71,8 @@ o Blender é uma software de criação 3D, com scripts em python. Ela permite a 
 
 ### Datasets 
 
-Nessa seção irei apresentar os cenários criados da seguinte forma: Inicialmente irei apresentar três frames selecionados de cada cenário além de seus mapas de disparidade. Esses frames foram selecionadas de forma que possam mostrar da melhor forma o cenário e as movimentações que acontecem nele. Em seguida irei apresentar as imagens em um formato de "grid" onde coloco todas as imagens obtidas para cada cenário. Por fim, utilizando um visualizador de lightfield, apresentarei vídeos que mostram as animações criadas.
+
+A proposta do projeto é criar uma dataset de vídeos lightfield sintéticos com uma visão para a variação da disparidade da cena. Para isso, as animações foram geradas no Blender e apresentadas abaixo da seguinte forma: Inicialmente irei apresentar três frames selecionados de cada cenário além de seus mapas de disparidade. Esses frames foram selecionadas de forma que possam mostrar da melhor forma o cenário e as movimentações que acontecem nele. Em seguida irei apresentar as imagens em um formato de "grid" onde coloco todas as imagens obtidas para cada cenário. Por fim, utilizando um visualizador de lightfield, apresentarei vídeos que mostram as animações criadas.
 
 ##### Algumas observações:
 1. Os cenários criados tem elementos de trabalhos de outros, que disponibilizam suas artes no site [sketchfab]. Os créditos serão devidamente apresentados após cada sequência de imagem.
