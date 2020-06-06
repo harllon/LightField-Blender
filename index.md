@@ -77,10 +77,9 @@ Nessa seção irei apresentar os cenários criados da seguinte forma: Inicialmen
 1. Os cenários criados tem elementos de trabalhos de outros, que disponibilizam suas artes no site [sketchfab]. Os créditos serão devidamente apresentados após cada sequência de imagem.
 2. Os códigos utilizados serão colocados nesse repositório do github: [LightField-Blender](https://github.com/harllon/LightField-Blender)
 3. Todos as imagens foram tiradas utilizando uma simulação de câmera plenóptica feita no blender[13]. Além disso, foi utilizada sempre uma matriz 8x8 de "micro-câmeras"
-4. As movimentações realizadas consistem em translações simples de forma que para cada "frame" os valores mínimos e máximos da disparidade no sejam alterados.
-5. Esse trabalho foi inspirado no trabalho ["A Dataset and Evaluation Methodology for Depth Estimation on 4D Light Fields"](https://lightfield-analysis.uni-konstanz.de/). Eles disponibilizaram scripts em python que foram utilizados nesse projeto e seu acesso será disponibilizado nas referências[14], [15].
-6. O visualizador utilizado pertence ao projeto ["Light Field Video Capture Using a Learning-Based Hybrid Imaging System"](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/).
-7. Os mapas de disparidade foram gerados usando o MatLab.[18]
+4. Esse trabalho foi inspirado no trabalho ["A Dataset and Evaluation Methodology for Depth Estimation on 4D Light Fields"](https://lightfield-analysis.uni-konstanz.de/). Eles disponibilizaram scripts em python que foram utilizados nesse projeto e seu acesso será disponibilizado nas referências[14], [15].
+5. O visualizador utilizado pertence ao projeto ["Light Field Video Capture Using a Learning-Based Hybrid Imaging System"](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIG17/lfv/).
+6. Os mapas de disparidade foram gerados usando o MatLab.[18]
 
 ## Cenários
 
@@ -127,16 +126,16 @@ O vídeo abaixo retrata a cena e a possibilidade de alterar o foco do vídeo dur
 
 
 ##### Créditos
-2020 de lucidvoo, publicado na plataforma https://sketchfab.com/
-Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution-NonCommercial.
-https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e5
+Domínio de lucidvoo, 2020, publicado na plataforma https://sketchfab.com/
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Retirada de elementos e junção com outros modelos 3D.
+https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e55
 
-2020 de gfon296, publicado na plataforma https://sketchfab.com/
-Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution.
+Domínio de gfon296, 2020, publicado na plataforma https://sketchfab.com/
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D.
 https://sketchfab.com/3d-models/nurnberg-91dedd2d5acd4e2c8cfae46cbc0c339b
 
-2020 de Troublesome, publicado na plataforma https://sketchfab.com/
-Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution.
+Domínio de Troublesome, 2020, publicado na plataforma https://sketchfab.com/
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Alteração nas texturas, coloração, efeitos de cenário e junção com outros modelos 3D.
 https://sketchfab.com/3d-models/lighthouse-3a479e4262384bbb95ff4058565fa6ea
 
 ### Return to Home
@@ -181,16 +180,16 @@ Confira abaixo o vídeo criado dessa animação.
 
 
 ##### Créditos
-2020 de KattyLi, publicado na plataforma https://sketchfab.com/
-Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution.
+Domínio de KattyLi, 2020, publicado na plataforma https://sketchfab.com/
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D.
 https://sketchfab.com/3d-models/whale-house-cb79b20b5533474ba918ce6b93201b3e
 
-2020 de lucidvoo, publicado na plataforma https://sketchfab.com/
-Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution-NonCommercial.
+Domínio de lucidvoo, 2020, publicado na plataforma https://sketchfab.com/
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Retirada de elementos e junção com outros modelos 3D.
 https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e5
 
-2020 de Euvand, publicado na plataforma https://sketchfab.com/
-Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution.
+Domínio de Euvand, 2020, publicado na plataforma https://sketchfab.com/
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Alterações na textura, coloração do modelo e junção com outros modelos 3D.
 https://sketchfab.com/3d-models/nortensky-ba544d323fb549f8a27087b612ffbd9c
 
 ### The Airplane
@@ -237,8 +236,8 @@ Segue o vídeo desse projeto abaixo.
 
 
 ##### Créditos
-2020 de Akhikyan, publicado na plataforma https://sketchfab.com/
-Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution.
+Domínio de Akhikyan, 2020, publicado na plataforma https://sketchfab.com/
+Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Alterações na textura e coloração do modelo.
 https://sketchfab.com/3d-models/steampunk-lighthouse-21ac51ebc4874fd08cc74ff75aed328d
 
 
