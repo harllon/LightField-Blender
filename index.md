@@ -128,7 +128,7 @@ O vídeo abaixo retrata a cena e a possibilidade de alterar o foco do vídeo dur
 ##### Créditos
 Domínio de lucidvoo, 2020, publicado na plataforma https://sketchfab.com/
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Retirada de elementos e junção com outros modelos 3D.
-https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e55
+(https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e55)
 
 Domínio de gfon296, 2020, publicado na plataforma https://sketchfab.com/
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D.
