@@ -18,7 +18,7 @@ No entanto, devido a algumas redundâncias na aquisição de informação, podem
 A câmera plenóptica é responsável pela criação de imagens de campo de luz a partir de cenas reais. Essa câmera captura informação sobre o campo de luz emanado da cena, ou seja, intensidade da luz e direção que o raio de luz está viajando no espaço. 
 A principal câmera plenóptica, que se tornou referências para diversos trabalhos é a câmera da Lytro. 
 
-| ![](https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/lytro_cam.jpg) | 
+|<img src="https://raw.githubusercontent.com/harllon/LightField-Blender/master/images/geral/lytro_cam.jpg" width="500" height="300" />| 
 |:--:| 
 | *Figura 2: Câmera Plenóptica Lytro[4]* |
 
