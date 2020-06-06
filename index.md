@@ -126,17 +126,17 @@ O vídeo abaixo retrata a cena e a possibilidade de alterar o foco do vídeo dur
 
 
 ##### Créditos
-Domínio de lucidvoo, 2020, publicado na plataforma https://sketchfab.com/
+Domínio de lucidvoo, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Retirada de elementos e junção com outros modelos 3D.
-(https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e55)
+[https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e55](https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e55)
 
-Domínio de gfon296, 2020, publicado na plataforma https://sketchfab.com/
+Domínio de gfon296, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D.
-https://sketchfab.com/3d-models/nurnberg-91dedd2d5acd4e2c8cfae46cbc0c339b
+[https://sketchfab.com/3d-models/nurnberg-91dedd2d5acd4e2c8cfae46cbc0c339b](https://sketchfab.com/3d-models/nurnberg-91dedd2d5acd4e2c8cfae46cbc0c339b)
 
-Domínio de Troublesome, 2020, publicado na plataforma https://sketchfab.com/
+Domínio de Troublesome, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Alteração nas texturas, coloração, efeitos de cenário e junção com outros modelos 3D.
-https://sketchfab.com/3d-models/lighthouse-3a479e4262384bbb95ff4058565fa6ea
+[https://sketchfab.com/3d-models/lighthouse-3a479e4262384bbb95ff4058565fa6ea](https://sketchfab.com/3d-models/lighthouse-3a479e4262384bbb95ff4058565fa6ea)
 
 ### Return to Home
 
@@ -180,17 +180,17 @@ Confira abaixo o vídeo criado dessa animação.
 
 
 ##### Créditos
-Domínio de KattyLi, 2020, publicado na plataforma https://sketchfab.com/
+Domínio de KattyLi, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Junção com outros modelos 3D.
-https://sketchfab.com/3d-models/whale-house-cb79b20b5533474ba918ce6b93201b3e
+[https://sketchfab.com/3d-models/whale-house-cb79b20b5533474ba918ce6b93201b3e](https://sketchfab.com/3d-models/whale-house-cb79b20b5533474ba918ce6b93201b3e)
 
-Domínio de lucidvoo, 2020, publicado na plataforma https://sketchfab.com/
+Domínio de lucidvoo, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Retirada de elementos e junção com outros modelos 3D.
-https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e5
+[https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e5](https://sketchfab.com/3d-models/homework-53-submarine-0d6b1a6a521146e3a65d9835e09514e5)
 
-Domínio de Euvand, 2020, publicado na plataforma https://sketchfab.com/
+Domínio de Euvand, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Alterações na textura, coloração do modelo e junção com outros modelos 3D.
-https://sketchfab.com/3d-models/nortensky-ba544d323fb549f8a27087b612ffbd9c
+[https://sketchfab.com/3d-models/nortensky-ba544d323fb549f8a27087b612ffbd9c](https://sketchfab.com/3d-models/nortensky-ba544d323fb549f8a27087b612ffbd9c)
 
 ### The Airplane
 
@@ -236,9 +236,9 @@ Segue o vídeo desse projeto abaixo.
 
 
 ##### Créditos
-Domínio de Akhikyan, 2020, publicado na plataforma https://sketchfab.com/
+Domínio de Akhikyan, 2020, publicado na plataforma [https://sketchfab.com/](https://sketchfab.com/)
 Todos os direitos reservados. Este modelo 3D não pode ser reproduzido ou usado de forma alguma sem seguir as normas da licença CC Attribution. Segundo esta licença, este modelo 3D foi parcialmente modificado a fim de ser empregado no trabalho de LightFields desenvolvido por Harllon Oliveira da Paz. Para isso, foram feitas as seguintes alterações: Alterações na textura e coloração do modelo.
-https://sketchfab.com/3d-models/steampunk-lighthouse-21ac51ebc4874fd08cc74ff75aed328d
+[https://sketchfab.com/3d-models/steampunk-lighthouse-21ac51ebc4874fd08cc74ff75aed328d](https://sketchfab.com/3d-models/steampunk-lighthouse-21ac51ebc4874fd08cc74ff75aed328d)
 
 
 ## Referências
